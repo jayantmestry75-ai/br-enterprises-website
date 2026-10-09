@@ -1,2 +1,5 @@
+
 User-agent: *
 Allow: /
+
+Sitemap: https://jayantmestry75-ai.github.io/br-enterprises-website/sitemap.xml
